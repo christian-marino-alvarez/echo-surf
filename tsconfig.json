@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "esnext",
+    "module": "ESNext",
+    "strict": true,
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "lib": ["dom", "esnext"],
+  },
+  "include": ["src"]
+}
